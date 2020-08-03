@@ -26,6 +26,10 @@
     <Authors>Ryan Schmidt</Authors>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <SignAssembly>true</SignAssembly>
+    <DelaySign>false</DelaySign>
+    <AssemblyOriginatorKeyFile>Sutro.geometry3Sharp.Key.pfx</AssemblyOriginatorKeyFile>
+    <UserSecretsId>cf9228e8-587f-48f3-add8-b1fc4709a0e6</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
